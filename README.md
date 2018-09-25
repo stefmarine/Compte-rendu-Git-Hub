@@ -6,4 +6,4 @@
 
 > Définitions
 - Un repository : est un dossier où on y dépose ses fichiers.
-- Un commit : C'est une nouvelle version de son travail, dès lors que l'on fait une nouvelle sauvegarde de son code. 
+- Un commit : C'est une nouvelle version de son travail, dès lors que l'on fait une nouvelle sauvegarde de son code.
